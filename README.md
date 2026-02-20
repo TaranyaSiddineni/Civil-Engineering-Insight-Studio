@@ -22,8 +22,7 @@ A Streamlit application that uses Google's Gemini AI to analyze civil engineerin
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/Tagore2702/Civil-Engineering-Insight-Studio.git
-cd Civil-Engineering-Insight-Studio
+git clone https://github.com/TaranyaSiddineni/Civil-Engineering-Insight-Studio
 ```
 
 ### 2. Create a Virtual Environment (Recommended)
@@ -70,4 +69,5 @@ streamlit run app.py
 ## License
 
 MIT
+
 
